@@ -30,4 +30,4 @@ and so on.
 NOTE:
 
 1.Sometimes it may fail if the network is too slow.
-2.Make sure that the Zoom is not running in tha background by checking in the tray icons.
+2.Make sure that the Zoom is not running in the background by checking in the tray icons.
