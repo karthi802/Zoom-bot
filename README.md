@@ -1,5 +1,5 @@
 # Zoom-bot
-A python boot to automatically attend
+A python bot to automatically attend
 
 
 This bot can automatically join a zoom meeting at a specified time.
