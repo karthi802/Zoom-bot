@@ -23,7 +23,7 @@ The remaining libraries are pre installed in python.
 If the program connot find the csv file then provide the full link.For example "E:\\Zoom bot\\Meeting_link.csv"
 
 In the csv file provide the details in the following format
-<Time in 24 format.Example 13:00>,<full meeting link>
+<Time in 24 format.Example 13:00>, <full meeting link>
 <2nd meeting time>,<2nd meeting link>
 and so on.
 
