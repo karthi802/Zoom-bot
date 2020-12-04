@@ -17,7 +17,7 @@ class zoom_bot:
         keyboard.send("tab",do_press=True,do_release=True)
         keyboard.send("enter",do_press=True,do_release=True)
 
-        time.sleep(10)
+        time.sleep(5)
 
         self.bot.quit()
 
